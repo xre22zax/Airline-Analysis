@@ -23,11 +23,11 @@ Harness the power of data to make informed travel decisions! This project delves
 
 **Data Manipulation:**
 
-- Median, mean, IQR, list comprehension, value_counts
+- `Median`, `mean`, `IQR`, `list comprehension`, `value_counts`
 
 **Data Visualization:**
 
-- Box plot, histogram plot, pie chart, lmplot, axvline, line_kws, autopct, hue, figsize, linestyle, label, color, x_jitter, scatter_kws, alpha, fit_reg, legend
+- `Box plot`, `histogram plot`, `pie chart`, `lmplot`, `axvline`, `line_kws`, `autopct`, `hue`, `figsize`, `linestyle`, `label`, `color`, `x_jitter`, `scatter_kws`, `alpha`, `fit_reg, legend`
 
 ## Libraries Used
 
